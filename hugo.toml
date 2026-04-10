@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+locale = 'fr-be'
+title = 'NAM-IP Blog'
+theme = 'ananke'
