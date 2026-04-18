@@ -1,31 +1,55 @@
 {{ define "main" }}
+
 <section class="pa3 pa4-ns">
-  <h1 class="f2">Archive par Dossier NOW</h1>
 
-  {{ $posts := .Site.GetPage "section" "posts" }}
+  <h1 class="f2">📚 Posts par année</h1>
 
-  {{ if $posts }}
-    {{ range $posts.Sections.ByTitle.Reverse }}
-      <div class="mb4">
-        
-        {{/* Ici, on prend le titre de l'index s'il existe, 
-           sinon Hugo utilise automatiquement le nom du dossier.
-           On utilise 'humanize' pour que 'mon-dossier' devienne 'Mon dossier'
-        */}}
-        <h2 class="f3 bb pb2">Année {{ path.Base .File.Dir }}</h2>
-        
-        <ul class="list pl3">
-          {{ range .Pages.ByDate.Reverse }}
-            <li class="mb2">
-              <a class="link blue hover-dark-blue" href="{{ .RelPermalink }}">
-                {{ .Title }}
-              </a>
-              <span class="gray ml2">{{ .Date.Format "02 Jan 2006" }}</span>
-            </li>
-          {{ end }}
-        </ul>
-      </div>
-    {{ end }}
+  {{ $pages := where .Site.RegularPages "Section" "posts" }}
+  {{ $grouped := $pages.GroupByDate "2006" }}
+
+  <!-- récupérer les clés (années) -->
+  {{ $years := slice }}
+  {{ range $grouped }}
+    {{ $years = $years | append .Key }}
   {{ end }}
+
+  <!-- tri inverse des années -->
+  {{ $years = sort $years "value" "desc" }}
+
+  <!-- affichage -->
+  {{ range $year := $years }}
+
+    {{ range $grouped }}
+      {{ if eq .Key $year }}
+
+        <div class="mb4">
+
+          <h2 class="f3 bb pb2">{{ .Key }}</h2>
+
+          <ul class="list pl3">
+
+            {{ range .Pages.ByDate.Reverse }}
+              <li class="mb2">
+                <a class="link blue hover-dark-blue"
+                   href="{{ .RelPermalink }}">
+                  {{ .Title }}
+                </a>
+
+                <small class="gray ml2">
+                  {{ .Date.Format "02 Jan 2006" }}
+                </small>
+              </li>
+            {{ end }}
+
+          </ul>
+
+        </div>
+
+      {{ end }}
+    {{ end }}
+
+  {{ end }}
+
 </section>
+
 {{ end }}
