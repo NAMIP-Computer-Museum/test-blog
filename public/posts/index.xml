@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on NAM-IP Blog</title>
+    <title>NAM-IP Blog</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on NAM-IP Blog</description>
+    <description>Recent content on NAM-IP Blog</description>
     <generator>Hugo</generator>
     <language>fr-be</language>
     <lastBuildDate>Fri, 10 Apr 2026 17:17:54 +0200</lastBuildDate>
@@ -16,45 +16,10 @@
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>NAM-IP Infos 2020/1 – Éditorial L&#39;année 2019</title>
-      <link>http://localhost:1313/posts/2020/blog-2020-1/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2020/blog-2020-1/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;année 2019 a commencé pour toute l&amp;rsquo;équipe du Computer Museum NAM-IP par un brain-storming ouvrant au futur et cela autour d&amp;rsquo;excellents plats chinois chez nos très accueillants voisins de la Ferme Blanche d&amp;rsquo;Asie! Les perspectives de travail et de développement avec une équipe aussi complète qu&amp;rsquo;il est possible dans l&amp;rsquo;état financier d&amp;rsquo;un musée toujours en première phase de création, étaient excellentes, et plusieurs suggestions faites à cette occasion seront déjà mises en&#xA;œuvre au cours de l&amp;rsquo;année!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2020/1 – Préservation L&#39;informatique à Philips-MBLE: de la  machine IRSIA-FNRS à l&#39;UNIDATA 7.720</title>
-      <link>http://localhost:1313/posts/2020/blog-2020-2/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2020/blog-2020-2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2020/1 – Recherche Tools and Weapons. The Promise and the Peril of the Digital Age</title>
-      <link>http://localhost:1313/posts/2020/blog-2020-5/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2020/blog-2020-5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2020/1 – Recherche Un Bilan de la contribution du NAM-IP à la recherche scientifique dans le domaine de l&#39;histoire de l&#39;informatique</title>
-      <link>http://localhost:1313/posts/2020/blog-2020-4/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2020/blog-2020-4/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>NAM-IP Infos 2020/1 – Exposition Visite de la Fondatrice de The American Computer and Robotic Museum (Bozeman, MO, USA) au NAM-IP le 27 décembre 2019</title>
       <link>http://localhost:1313/posts/2019/blog-2019-7/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2019/blog-2019-7/</guid>
-      <description>&lt;p&gt;Début Septembre 2019, Yolande Juste et R.-Ferdinand Poswick ont eu le plaisir d&amp;rsquo;être reçu de façon très personnelle par Barbara Keremedjiev, créatrice, avec son mari Georges (décédé en 2018), du plus ancien musée de l&amp;rsquo;informatique (1990) à Bozeman dans l&amp;rsquo;État du Mont&#x9;ana (U.S.A.) - voirNAM-IP/INFO, 2019/4.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;NAM-ip-Info201904-Expos1.html&#34;&gt;NAM-IP/INFO, 2019/4&lt;/a&gt;Nous avons été heureusement surpris d&amp;rsquo;apprendre que cette fondatrice d&amp;rsquo;un musée de l&amp;rsquo;informatique, en route pour visiter sa famille polonaise à la Noël de 2019, avait planifié son voyage de façon à pouvoir consacrer une journée à la visite du Computer Museum NAM-IP.&#xA;Yolande Juste et le signataire ont donc pu la recevoir le 27 décembre au NAM-IP, pilotée par sa nièce Magdalena qui travaille dans une section financière de la Commission Européenne à Bruxelles!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2020/1 – Exposition Visite de la Fondatrice de The American Computer and Robotic Museum (Bozeman, MO, USA) au NAM-IP le 27 décembre 2019</title>
-      <link>http://localhost:1313/posts/2020/blog-2020-3/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2020/blog-2020-3/</guid>
       <description>&lt;p&gt;Début Septembre 2019, Yolande Juste et R.-Ferdinand Poswick ont eu le plaisir d&amp;rsquo;être reçu de façon très personnelle par Barbara Keremedjiev, créatrice, avec son mari Georges (décédé en 2018), du plus ancien musée de l&amp;rsquo;informatique (1990) à Bozeman dans l&amp;rsquo;État du Mont&#x9;ana (U.S.A.) - voirNAM-IP/INFO, 2019/4.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;NAM-ip-Info201904-Expos1.html&#34;&gt;NAM-IP/INFO, 2019/4&lt;/a&gt;Nous avons été heureusement surpris d&amp;rsquo;apprendre que cette fondatrice d&amp;rsquo;un musée de l&amp;rsquo;informatique, en route pour visiter sa famille polonaise à la Noël de 2019, avait planifié son voyage de façon à pouvoir consacrer une journée à la visite du Computer Museum NAM-IP.&#xA;Yolande Juste et le signataire ont donc pu la recevoir le 27 décembre au NAM-IP, pilotée par sa nièce Magdalena qui travaille dans une section financière de la Commission Européenne à Bruxelles!&lt;/p&gt;</description>
     </item>
     <item>
@@ -763,174 +728,6 @@
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2016/blog-2016-2/</guid>
       <description>&lt;p&gt;Comme raconté dans NAM-IP Infos 2015/4, une machine Burroughs série M [Moon-Hopkins] offerte à l‘Université de Namur par Jacques Laffut est désormais exposée et commentée dans le hall d’entrée de la Faculté d’Informatique, rue Grandgagnage 21 (voir figure 1).&lt;/p&gt;&#xA;&lt;p&gt;Comme l’atteste le site Web duNational Museum of American History, ce type de machine fut produit entre 1951 et, au moins, 1957 par la firmeBurroughs Adding Machine Company, basée à&#xA;Detroit, dans le Michigan (USA). Des versions antérieures de cette machine&#xA;et moins sophistiquées furent fabriquées dès les années 1920, par cette même&#xA;firme, et s’appelaient, à l’époque,Burroughs Moon-HopkinsEn effet, les droits de fabrication en furent achetés en 1921 parBurroughsà laMoon-Hopkins Billing Machine Company. Cette dernière avait été fondée par Hubert Hopkins, détenteur dès 1904 d’un brevet de ‘machine à multiplier et à écrire’ purement mécanique (dépourvue de moteur), et par son associé, un homme d’affaires nommé John C. Moon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/1 – Éditorial</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-1/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-1/</guid>
-      <description>&lt;p&gt;Les électrons bougent et nous font bouger ! L&amp;rsquo;information circule à la vitesse de la lumière… ou presque!&#xA;Le courriel, les sons, les twitt et autres signaux électroniques surgissent à tout moment et créent l&amp;rsquo;actualité où nous vivons immergés!&lt;/p&gt;&#xA;&lt;p&gt;NAM-IP sera présent à ce flux d&amp;rsquo;information. Le &amp;ldquo;musée&amp;rdquo; devra parler les langues nouvelles des communications de demain en y apportant tout le poids des années de découvertes qui ont permis ces modes nouveaux de communication.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/2 – Acquisition</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-7/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-7/</guid>
-      <description>&lt;h3 id=&#34;politique-dacquisition&#34;&gt;Politique d&amp;rsquo;acquisition&lt;/h3&gt;&#xA;&lt;p&gt;Dès la constitution du FondsInformatique Pionnière en Belgique – Baanbrekende Informatika in België, ses créateurs et la Fondation Roi Baudouin elle-même ont régulièrement reçu des offres de matériels ou autres artefacts du domaine de l&amp;rsquo;informatique précieusement conservés par des particuliers conscients que cela pourrait, un jour, devenir une trace rare d&amp;rsquo;une étape de l&amp;rsquo;informatique.&lt;/p&gt;&#xA;&lt;p&gt;On y a réfléchi. Il y a le risque de devenir la poubelle de tous les  fonds de greniers qui n&amp;rsquo;osent pas se dévider dans les «encombrants». Mais, d&amp;rsquo;autres, comme le futur musée de Rhode Island (U.S.A.), n&amp;rsquo;hésitent pas à tout accepter: ils se sont mis en partenariat avec un brocanteur spécialisé qui leur rachète les pièces qu&amp;rsquo;ils ne veulent garder et qui trouve à les revendre sur des marchés de l&amp;rsquo;occasion où, aujourd&amp;rsquo;hui, à des petites entreprises qui récupèrent les métaux rares contenus dans ces vieilles machines.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/2 – Préservation</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-5/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-5/</guid>
-      <description>&lt;h3 id=&#34;la-poinçonneuse-manuelle-bull-pour-cartes-80-colonnes&#34;&gt;La poinçonneuse manuelle Bull pour cartes 80 colonnes&lt;/h3&gt;&#xA;&lt;p&gt;En 1928: IBM déposait le brevet de la carte perforée à 80 colonnes et trous rectangulaires qui remplaçait la carte 45 colonnes à trous ronds. Voir photo.&lt;/p&gt;&#xA;&lt;p&gt;IBM lançait ainsi un nouveau standard de fait, et ses brevets empêcheront ses concurrents américains de suivre ce standard.&#xA;La Compagnie Bull s’allignera cependant sur le nouveau standard 80 colonnes, mais avec un autre code carte.&#xA;Un procès sans fin opposera alors Bull et IBM sur ce sujet.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/2 – Recherche</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-6/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-6/</guid>
-      <description>&lt;h3 id=&#34;konrad-zuse-un-pionnier-génial-mais-tardivement-reconnu&#34;&gt;Konrad Zuse, un pionnier génial mais tardivement reconnu&lt;/h3&gt;&#xA;&lt;p&gt;Konrad Zuse naquit à Berlin le 22 juin 1910. Son père était employé à la poste. Quant à ses ancêtres, ils étaient vraisemblablement des Huguenots qui avaient émigré de France sous le nom de Suze.Zuse fit des études d’ingénieur civil à l’Université Technique de Berlin-Charlottenburg. Il y apprit comment réaliser des calculs statistiques répétitifs et se mit à rêver d’automatiser ces calculs. Dès 1933, il commença à concevoir un ‘calculateur universel’ (c’est-à-dire une machine à calculer programmable). En 1936, ayant fini ses études, il créa seul un ‘atelier d’inventeur’ dans le salon de l’appartement de ses parents à Berlin et, avec la maigre aide financière de ses parents et de quelques amis, se consacra entièrement à la fabrication des calculateurs de ses rêves.Les caractéristiques fondamentales de toutes les machines à calculer programmables réalisées par K. Zuse avant 1945 sont au nombre de trois.Elles présentent tout d’abord une séparation des fonctions de mémoire et de calcul: elles sont les premiers calculateurs opérationnels de l’histoire à présenter cette particularité.Cette remarque s’applique aussi à une deuxième caractéristique des calculateurs construits par Zuse avant la fin de la deuxième guerre mondiale (exception faite de la ‘Z2’): le recours à l’arithmétique en ‘virgule flottante’. (Le but poursuivi par cette technique qui considère séparément la mantisse et l’exposant d’un nombre est de permettre la précision dans les calculs avec des nombres très petits ou très grands.)La troisième singularité des machines à calculer de Zuse, est l’utilisation du système binaire (inspiré de Leibnitz) pour la représentation des données (à la fois dans la mémoire et dans le processeur) et aussi celle des séquences d’instructions, autrement dit celle du programme. Il faut noter que ce dernier était mémorisé par Zuse uniquement en perforant un support de réemploi: une pellicule cinématographique. Zuse employa aussi le système binaire pour la réalisation des opérations arithmétiques, ce qui lui permit de faciliter la multiplication. Par ailleurs, le recours au binaire offrit à Zuse la possibilité de programmer non seulement des opérations arithmétiques mais aussi des opérations logiques (par exemple pour le jeu d’échec).Le premier calculateur universel de Zuse, appelé actuellement ‘Z1’, était entièrement mécanique. Il fut conçu à partir de 1935 et achevé en 1938: il est donc&#xA;le premier calculateur binaire au monde mais il manquait de fiabilité.En 1939, Zuse fut enrôlé dans l’infanterie pour six mois alors que la machine suivante, la ‘Z2’ était presque achevée. Elle avait une mémoire mécanique et&#xA;un processeur électromécanique (basé sur des relais téléphoniques de seconde main). Destinée à tester l’utilisation des relais, elle était limitée (travaillant en virgule fixe). Il faut souligner ici, d’une part, la non compréhension explicite des autorités militaires de l’aide potentielle que la Z2 aurait pu apporter à la construction d’avions et, d’autre part, le refus de ces mêmes autorités de la proposition faite en 1939 par Zuse de conception d’un appareil à encrypter. A l’évidence Zuse ne fut pas un prophète dans son pays! Mais la ‘Z2’ permit néanmoins à Zuse de faire une démonstration en 1940 qui suscita l’intérêt de la DVL (Deutsche Versuchsanstalt für Luftfahrt- Laboratoire d&amp;rsquo;essais allemand pour l&amp;rsquo;aviation): Zuse obtint alors signature d’un contrat grâce auquel la ‘Z3’, déjà en construction, allait être partiellement financée par la DVL.Cette troisième machine, réalisée avec une mémoire et un processeur électromécaniques (relais), fut opérationnelle dès 1941: ceci en fait la première réalisation mondiale d’un calculateur universel fonctionnant correctement. Mais ce fait particulièrement glorieux est resté longtemps inconnu. La ‘Z3’ ainsi que les deux premières machines de Zuse seront par ailleurs détruites lors de bombardements à la fin de la guerre (mais de précieuses répliques de la ‘Z1’ et de la ‘Z3’ ont été faites par K. Zuse lui-même respectivement en 1986 - 1989  et en 1960-61).Le quatrième calculateur, ‘Z4’, fut projeté dès 1941 et sa construction débuta en 1942. Zuse voyait en lui un protoptype qu’il avait l’intention de faire construire par milliers, à destination de bureaux d’ingénieurs et d’instituts scientifiques. Il comportait une mémoire mécanique et un processeur électromécanique. Par une nuit de 1945, il fut transporté de Berlin à Göttingen, dans un camion militaire (suite à un heureux quiproquo lié à son appellation d’alors). Finalement, il aboutit, avec la famille de K. Zuse, dans le village alpin de Hinterstein. En 1945-46, face à l’impossibilité de restaurer la machine ‘Z4’ endommagée, Zuse entreprit d’achever son travail théorique sur le langage qu’il avait appelé ‘Plankalkül’ (ce qui signifie littéralement (dans le vocabulaire actuel) ‘calcul de programmes’). Il est important de noter qu’il s’agit là d’un langage (de programmation) ‘de haut niveau’, ce qui implique qu’il est utilisable sans connaissance des caractéristiques matérielles du calculateur employé et qu’il est proche, en l’occurrence, du langage du mathématicien. Il fut utilisé par Zuse pour formuler des programmes non triviaux de type non numérique (ex. jeu d’échec). Le ‘Plankalkül’ s’est révélé être le premier langage de haut niveau de l’histoire de la programmation. Mais ayant été conçu avant la mise en œuvre des ordinateurs[Le recours aux ordinateurs fonde l&amp;rsquo;informatique](c’est-à-dire de calculateurs universels dont le programme ne reste pas extérieur mais est introduit en mémoire centrale [stored program computer]) et, a fortiori, en dehors de la prise en compte du concept actuel de compilation (pour passer d’un langage de haut niveau en un langage de niveau inférieur), il fut l’objet de controverses et ne fut reconnu à sa juste valeur par la communauté des informaticiens que relativement récemment.Ainsi donc, après avoir été d’abord ignoré puis longuement méconnu, K. Zuse fut finalement reconnut, de son vivant – il est mort en décembre 1995&#xA;–, par la communauté scientifique comme pionnier incontournable de la (pré)histoire de l’informatique. Il apporta une contribution majeure non seulement au niveau matériel mais aussi au niveau logiciel. Les caractéristiques techniques de ses calculateurs (binaire, arithmétique en virgule flottante, séparation mémoire/processeur) se sont révélées être des choix d’avenir. Son langagePlankalkülest très en avance sur son temps.Marie d’Udekem-GeversFaculté d’informatique Université de &lt;a href=&#34;mailto:Namurmarie.gevers@unamur.beAdministrateur&#34;&gt;Namurmarie.gevers@unamur.beAdministrateur&lt;/a&gt; de Nam-IpPour en savoir plus:● Zuse Konrad 1993,The computer – My Life, Springer-Verlag● Zuse Horst,The Life and Work of Konrad Zusehttp://web.archive.org/web/20080601210541/http://www.epemag.com/zuse● d’Udekem-Gevers Marie exposé du 26 novembre 2014,  au Collège Belgique à Namur, intitulé : ‘L&amp;rsquo;Allemagne et les calculateurs des années 1940’.  Voirhttp://www.academieroyale.be/cgi?lg=fr&amp;amp;pag=919&amp;amp;tab=111&amp;amp;rec=1505&amp;amp;frm=0●Kurt Pauli Stiftung/ Über Konrad Zuse&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/3 – Éditorial</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-8/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-8/</guid>
-      <description>&lt;h3 id=&#34;la-nouvelle-tyraniequel-contrôle-démocratique-des-nouveaux-empires&#34;&gt;La nouvelle tyranie!Quel contrôle démocratique des nouveaux empires&lt;/h3&gt;&#xA;&lt;p&gt;gouvernés par les oligarchies planétaires du TIC?&lt;/p&gt;&#xA;&lt;p&gt;Relayés par le Courrier International en juillet 2015 des articles duNew Statesman(Londres, 18 juin 2015) et deDer Spiegel(Frankfurt, février 2015), tirent la sonnette d&amp;rsquo;alarme: les vrais pouvoirs décisionnels ne sont plus dans les mains des États-nations; ils sont aux mains de multinationales des domaines des TIC dont les finances sont aujourd&amp;rsquo;hui supérieures à celles de bien des États!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/3 – Préservation</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-11/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-11/</guid>
-      <description>&lt;h3 id=&#34;archives-bibliothèques-et-musées-même-combat&#34;&gt;Archives, bibliothèques et musées… même combat!&lt;/h3&gt;&#xA;&lt;p&gt;Avant les Journées&lt;/p&gt;&#xA;&lt;p&gt;Lancées en 2013 dans la perspective des Journées des Archives de l&amp;rsquo;Université de Louvain-la-Neuve, lesRéflexions prospectives: Archivistes de 2030publiées dès le début de 2015 (Academia, ISBN 975-2-8061-0214-0, 430 pages, janvier 2015), sont un riche laboratoire de recherche en cette matière auquel les Journées elles-mêmes (23-24 avril 2015) ont donné un complément qui a attiré un public spécialisé et nombreux.Vingt-huit contributions, classées dans l&amp;rsquo;ordre alphabétique du nom de leurs auteurs, remplissent les 430 pages de cette publication à laquelle le signataire a contribué.Lors de la célébration des Journées, plusieurs contributions complémentaires ont été apportées. Elles seront publiées dans un autre volume d&amp;rsquo;Actes «post factum»!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/3 – Préservation Ma participation aux 15e Journées des Archives de UCL</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-10/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-10/</guid>
-      <description>&lt;p&gt;Archivistes de 2030&lt;/p&gt;&#xA;&lt;p&gt;Les 23 et 24 avril dernier se déroulaient les 15e Journées des Archives organisées par l&amp;rsquo;Université catholique de Louvain (UCL). Le NAM-IP a l’intention d&amp;rsquo;avoir dans son bâtiment un véritable centre d&amp;rsquo;archives regroupant des documents liés à l’informatique pionnière.&lt;/p&gt;&#xA;&lt;p&gt;Personnellement, venant de la muséologie, je connaissais peu le monde de l&amp;rsquo;archivistique, il me fallait comprendre tout ce qui distingue un centre d&amp;rsquo;archives d&amp;rsquo;un musée : c&amp;rsquo;était le but de ma participation à ces journées.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/3 – Recherche</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-13/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-13/</guid>
-      <description>&lt;h3 id=&#34;à-propos-de-belges-dans-lhistoire-de-la-compagnie-des-machines-bull&#34;&gt;À propos de belges dans l’histoire de la Compagnie des Machines Bull&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Rappel des origines&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Les origines de la Compagnie des Machines Bull ne se trouvent pas en France.C’est en janvier 1921 que l’ingénieur norvégien Frederik Rosing Bull présentait au conseil d’administration de la société d’assurance qui l’employait, la Storebrand, une machine à statistique à cartes perforées. Cette machine était moins chère, plus élaborée mais un peu plus lente que celle d’Hollerith. Cette dernière était commercialisée depuis 1890 et dominait le marché, avec un seul concurrent apparu entre temps: Powers.La réalisation de la machine de Bull fut confiée aux ateliers de son compatriote Kr Ormestad A.s.&#xA;F. R. Bull, avec leur collaboration, accumulera une série de perfectionnements. Il déposera une série de brevets, F. R. Bull créa sa propre société dès 1922 et signa un peu plus tard un arrangement avec les frères Reidar et Andreas Knutsen (ingénieurs norvégiens comme lui) pour fabriquer et vendre ses machines. Reidar Knutsen dirigeait en effet une petite société de mécanique, la A.S. OKA, société qui reprit à son compte la réalisation des machines conçues par Bull, et déjà améliorées par Andreas Knutsen,&#xA;Hélas, F.R. Bull se savait, dès 1924, atteint d’un cancer. Il désigna son ami et collègue Knutsen comme son successeur et décéda en juin 1925. Et voilà que quelques mois plus tard, sa femme mourut aussi, laissant en héritage la cinquantaine de brevets que Bull avait déposés dans une dizaine de pays.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/4 – Éditorial</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-18/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-18/</guid>
-      <description>&lt;h3 id=&#34;vous-avez-dit-numérique&#34;&gt;Vous avez dit “numérique”?&lt;/h3&gt;&#xA;&lt;p&gt;NUMÉRIQUE: tous les programmes gouvernementaux, politiques, institutionnels en sont soudain plein à déborder. La bonne vieille&#xA;“informatique” a disparu, elle est partie dans les nuages (cloud)!&lt;/p&gt;&#xA;&lt;p&gt;Personnellement, je ne puis pas trop me plaindre de cet abus langagier. Depuis des années je serine que, ce qui caractérise notre époque, celle qui a commencé avec le développement des ordinateurs et de l&amp;rsquo;informatique, est précisément le passage de la civilisation fondée sur l&amp;rsquo;écriture alphabétique à une civilisation fondée sur l&amp;rsquo;écriture numérique (ou électronique). Numérique sous l&amp;rsquo;angle des symboles zéro (0) ou un (1) qui servent à décrire dans un langage fondé sur ces deux nombres (langage binaire) la totalité de l&amp;rsquo;expressible humain; électronique sous l&amp;rsquo;angle de l&amp;rsquo;artefact qui utilise le courant électrique pour&#xA;“écrire”, “lire”, “manipuler” ces symboles.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/4 – Exposition Excursion au Mundaneum</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-23/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-23/</guid>
-      <description>&lt;p&gt;Le 28 juillet dernier, C. Dries, Y. Juste, R-F. Poswick et moi-même partions en escapade au Mundaneum. Nous voilà donc partis vers 10h30 de Salzinnes en direction de Mons, en prenant bien soin d’éviter les travaux et les embouteillages possibles.  Nous étions à midi sur la Grand Place, pour profiter d&amp;rsquo;un dîner à côté du démontage du labyrinthe de tournesolshttp://www.mons2015.eu/fr/sun-city.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.mons2015.eu/fr/sun-city&#34;&gt;http://www.mons2015.eu/fr/sun-city&lt;/a&gt;A 13h, heure de l&amp;rsquo;ouverture, nous étions fin prêts pour une visite. À l&amp;rsquo;entrée, le personnel nous a accueilli chaleureusement et expliqué le parcours de la nouvelle exposition temporaire «Mapping Knowledge - Comprendre le monde par les données». Celle-ci débute par une œuvre de Justin Lui, un artiste canadien, dans laquelle le visiteur est invité à pénétrer au milieu d&amp;rsquo;une pluie de fibres optique changeant de couleur sur son passage exprimant ainsi la trace des données que nous laissons en permanence derrière nous.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/4 – Exposition ZCOM - Nouvelles du Konrad Zuse Computer Museum</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-21/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-21/</guid>
-      <description>&lt;ol&gt;&#xA;&lt;li&gt;Résumé de la ZCOM Newsletter 4/2015&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Avancement des travaux au nouveau muséeLe choix des couleurs a été fait: tout sera dans des tons verts, bleus et gris. Le réseau électrique et la ventilation sont installés.&#xA;En attendant les revêtement de sol, des travaux d&amp;rsquo;aménagement de l&amp;rsquo;espace extérieur devant le musée sont en cours.&lt;/p&gt;&#xA;&lt;p&gt;Le Musée&lt;/p&gt;&#xA;&lt;p&gt;Un étudiant de l&amp;rsquo;université de Frankfurt/Oder a fait une thèse en Marketing on-line sur «Le développement d&amp;rsquo;un concept de communication, sur base de l&amp;rsquo;exemple du Zuse-Computer-Museum d&amp;rsquo;Hoyerswerda».&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2015/4 – Recherche Nos politiques prennent-ils la mesure de  la seconde révolution numérique?</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-24/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-24/</guid>
-      <description>&lt;p&gt;Depuis plus d’un an, les grands quotidiens et hebdomadaires abordent à tour de rôle le sujet des robots prédateurs: «Vont-ils prendre nos emplois?». Ce titre est un raccourci médiatique: les robots mobiles ne sont qu’un aspect de la 2° révolution numérique. Celle-ci dont le début se situe à la fin du siècle dernier est construite sur des technologies (Intelligence artificielle, captures du mouvement, robots mobiles, objets communicants, web 2.0, virtualisation) devenues performantes par la poursuite de l’évolution exponentielle de la puissance des microprocesseurs et des télécommunications. Sa caractéristique principale repose sur la combinaison innovante de ces technologies donnant lieu à des produits et services nouveaux qui  peuvent eux-mêmes être réutilisés dans de nouvelles combinaisons créatrices de nouveaux produits et services  et ce à l’infini&#xA;(1). Ce  sera le cas, par exemple,  de la combinaison évolutive: smartphone, GPS, optimisation de parcours en temps réel en cas de bouchon,  calcul d’un itinéraire multimodal, réservation et achats de billets, paiement pas SMS, accès contact-less à un véhicule  de location, etc… Une autre illustration est celle de la technologie  «Big data» en vogue actuellement. Elle repose sur  l’exploration continue de sources d’informations hétérogènes (banques de données internes et externes, sites web, réseaux sociaux, objets communicants,…) pour alimenter  un entrepôt de données.  Celles-ci seront  criblées et   analysées  en temps réel par des logiciels d’intelligence artificielle en vue d’y découvrir des régularités qui seront  exploitées  par des outils d’aide à la décision avec réinjection des résultats dans l’entrepôt.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2016/1 – Exposition ZCOM - Nouvelles du Konrad Zuse Computer Museum</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-2/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-2/</guid>
-      <description>&lt;ol&gt;&#xA;&lt;li&gt;Résumé de la ZCOM Newsletter 5/2015&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Progrès de la constructionLa deuxième partie de construction s’est terminée par l’examen positif de toutes les installations techniques et une formation du personnel à manier les systèmes de sécurité.Le 9 décembre 2015 on a discuté d’offres suite à un concours pour les estrades: répartition des poids et système de guidage au sol. Le système de guidage au sol est financé par un programme d’investissement du Landkreis Bautzen, alimenté par des ressources du Freistaat Sachsen, il sera mis en&#xA;œuvre en décembre sur une étendue de 150 m2.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2016/1 – Préservation Lignes ou mémoires à magnétostriction</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-15/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-15/</guid>
-      <description>&lt;p&gt;Objectif&lt;/p&gt;&#xA;&lt;p&gt;Avec l&amp;rsquo;apparition de l’électronique, dans les années 60, la&#xA;progression de la mécanographie nécessitait de pouvoir mémoriser tout le&#xA;contenu d&amp;rsquo;une carte ou d&amp;rsquo;une ligne d&amp;rsquo;impression en les désynchronisant du&#xA;temps nécessaire à l&amp;rsquo;exécution d&amp;rsquo;autres opérations de calcul ou de&#xA;perforation. Les ensembles à relais classiques ne pouvaient répondre à ces&#xA;exigences. Il en était de même dans l’échange d’informations entre le&#xA;calculateur Gamma 3 (jouant le rôle d’organe d’entrée-sortie) et le tambour&#xA;magnétique, mémoire &amp;ldquo;de masse&amp;rdquo; externe. En même temps apparaissaient les&#xA;calculateurs électroniques, et l’on souhaitait leur adjoindre des&#xA;imprimantes à plus de 200 lignes / minute. Mais pour cela il fallait&#xA;mémoriser les lignes à imprimer en mémoire tampon. Ce qui est toujours&#xA;actuellement le cas, d’ailleurs, cette mémoire se trouvant logée dans&#xA;l’imprimante. Les mémoires à tores de ferrites étaient encore rares et très&#xA;coûteuses avant 1960. De là l&amp;rsquo;utilisation de diverses techniques, dont les&#xA;mémoires à lignes à retard et celles à magnétostriction.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2016/2 – Exposition ZCOM - Nouvelles du Konrad Zuse Computer Museum</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-9/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-9/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;état d&amp;rsquo;avancement de la création du Musée ZCOM en l&amp;rsquo;honneur de Konrad Zuse demeure, au fil des mois, un point de repère pour l&amp;rsquo;avancement des travaux de mise en place du NAM-IP.&lt;/p&gt;&#xA;&lt;p&gt;À 850 km de distance (ZCOM, près de Dresden est assez proche de la frontière polonaise en Basse-Saxe) on voit se développer les mêmes problématiques.&lt;/p&gt;&#xA;&lt;p&gt;Il y a cependant de grosses différences à commencer par les bases financières du projet qui sont clairement exprimées pour le musée d&amp;rsquo;Hoyerswerda dans la dernière Newsletter (1/2016): les travaux immobiliers, qui sont désormais terminés, ont été financés par l&amp;rsquo;État de Saxe et par le consortium immobilier de logements de Hoyerswerda au niveau de 3,3 millions d&amp;rsquo;Euros!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2016/2 – Recherche La nouvelle révolution numérique, le basculement sociétal, Digital Wallonia</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-12/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-12/</guid>
-      <description>&lt;p&gt;L’article►Nos politiques prennent-ils la mesure de la seconde révolution numérique?»concluait l’analyse des impacts possibles de la seconde révolution numérique par une interrogation adressée aux responsables de la politique du numérique en Région wallonne:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;NAM-IP-info201504-Rech2.html&#34;&gt;►Nos politiques prennent-ils la mesure de la seconde révolution numérique?»&lt;/a&gt;«Les questions posées soulèvent des enjeux majeurs qui, faute d’être résolus, risquent de conduire à une destruction des fondements du modèle social. Croire que la réponse à ces questions relève du long terme serait illusoire. Il faut espérer qu’elles seront prises en compte par le Conseil du Numérique récemment créé en Région wallonne et que le programme numérique du plan Marshall 4.0 y apportera des éléments de réponse permettant de transformer une menace en une opportunité».&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2016/3 – Éditorial Le sprint final</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-14/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-14/</guid>
-      <description>&lt;p&gt;Voici plus de 42 mois que le projet de musée de l&amp;rsquo;informatique cherche à&#xA;se concrétiser. Et, soudain, à la date de parution de la présente livraison, il&#xA;restera moins de 60 jours avant son inauguration !&lt;/p&gt;&#xA;&lt;p&gt;Sommes-nous prêts à accueillir des visiteurs ?&lt;/p&gt;&#xA;&lt;p&gt;Car, c&amp;rsquo;est principalement ce point-là qui va apporter de la nouveauté dans&#xA;les rythmes de lente construction de cette structure complexe dont seule la&#xA;pointe émergée de l’iceberg sera dévoilée publiquement au 27 octobre 2016.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2016/3 – Exposition Quel impact a l&#39;évolution de l&#39;informatique sur nos vies ?</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-16/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-16/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;informatique est aujourd’hui partout, ça n&amp;rsquo;a pas toujours été le cas.&#xA;Certains d&amp;rsquo;entre vous se souviennent certainement de cette époque où les&#xA;smartphones n’existaient pas ; d&amp;rsquo;autres où Internet n’existait pas ; un peu&#xA;moins se souviendront de l&amp;rsquo;époque où les ordinateurs n&amp;rsquo;existaient pas&amp;hellip;&#xA;L&amp;rsquo;exposition &amp;ldquo;Aux racines du numérique : des machines qui comptent&amp;rdquo; a pour&#xA;but de montrer les machines qui ont changé le monde afin de se poser&#xA;quelques questions sur notre civilisation et la place que nous laissons à la&#xA;technologie et son impact.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2016/3 – Recherche Il y a 25 ans… le rêve d&#39;un Centre d&#39;Interprétation pour la culture du numérique</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-17/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-17/</guid>
-      <description>&lt;p&gt;Le 15 février 1991, j&amp;rsquo;ai été amené à présenter le projet d&amp;rsquo;un Centre&#xA;d&amp;rsquo;Interprétation qui aurait pu se créer à Maredsous. Le texte de cette&#xA;communication sera peut-être repris dans le volume en cours de création sur&#xA;l&amp;rsquo;histoire des travaux réalisés dans ce domaine par l&amp;rsquo;équipe informatique de&#xA;Maredsous entre 1969 et 2014. Mais, il m&amp;rsquo;a semblé intéressant, dans le cadre de&#xA;la création du Computer Museum NAM-IP et de sa prochaine inauguration, d&amp;rsquo;en&#xA;extraire quelques éléments qui peuvent éclairer la vision de l&amp;rsquo;un de ses&#xA;fondateurs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2016/4 – Exposition Inauguration du Computer Museum NAM-IP -  Discours de Dominique Allard</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-19/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-19/</guid>
-      <description>&lt;p&gt;Bienvenue à vous tous dans ce grand bâtiment et au milieu de ces collections&#xA;historiques qui constituent le cœur du nouveau Computer Museum, mais tous&#xA;propriété de la Fondation Roi Baudouin.&lt;/p&gt;&#xA;&lt;p&gt;Quatre collections privées ont trouvé à s’abriter au sein de la Fondation&#xA;dans un fonds spécifique, le Fonds Informatique pionnière, créé par les&#xA;quatre collectionneurs. A ces collections est venue se joindre un élément&#xA;historique capital, la tabulatrice de William Hollerith, prêtée par la&#xA;maison de la Métallurgie de Liège et classée trésor de la fédération&#xA;Wallonie-Bruxelles.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NAM-IP Infos 2016/4 – Exposition Inauguration du Computer Museum NAM-IP -  Discours de l&#39;échevine Cécile Crefcoeur</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-20/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-20/</guid>
-      <description>&lt;p&gt;Bonsoir à toutes et à tous,&lt;/p&gt;&#xA;&lt;p&gt;Quel honneur pour une Ville, qui plus est la Capitale de la Wallonie, d’accueillir un tout nouveau musée. Et pas n’importe quel musée. A l’heure où il est possible de communiquer à des milliers de kilomètres et avec des milliers d&amp;rsquo;interlocuteurs sans délai, et où cela ne coûte pratiquement plus rien, à l’heure où la révolution numérique bouleverse radicalement nos modes de pensée, de comportement, de communication, et de travail, c’est une chance inouïe pour Namur que de pouvoir compter parmi ses entités muséales, ce tout nouveau Computer Museum NAM-IP.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>pas de titre</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-22/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-22/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>pas de titre</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-4/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Prévisions muséographiques de NAM-IP</title>
-      <link>http://localhost:1313/posts/2015/blog-2015-3/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2015/blog-2015-3/</guid>
-      <description>&lt;h3 id=&#34;prévisions-muséographiques-de-nam-ip&#34;&gt;Prévisions muséographiques de NAM-IP&lt;/h3&gt;&#xA;&lt;p&gt;Evolution du projet muséal du NAM-IP&#xA;février 2015&lt;/p&gt;&#xA;&lt;p&gt;Petit à petit, le projet du NAM-IP se dessine. Dernièrement, plusieurs décisions ont été prises au niveau de la muséographie et de l&amp;rsquo;aspect architectural externe du musée.&#xA;L&amp;rsquo;idée d&amp;rsquo;utiliser des containers maritimes de 6 m x 2,5 m et de 12 m x 2,5 m a été confirmée pour structurer l&amp;rsquo;espace de l&amp;rsquo;ancien Hall Omnisports.&#xA;Le musée sera signalé à l&amp;rsquo;extérieur du bâtiment par un assemblage de trois “petits” containers maritimes: deux containers longeront le mur et un autre sera placé tel une tour sur le premier. Ce dernier sera évidé sur une partie et portera le nom abrégé du musée:&#xA;“NAM-IP”. Ce projet a pour but de signifier le changement d&amp;rsquo;affectation du bâtiment et d&amp;rsquo;augmenter sa visibilité.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NAM-IP Infos 2018/3 – Exposition Musées du Colorado et de Californie, 2018</title>
