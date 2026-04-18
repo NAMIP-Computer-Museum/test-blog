@@ -1,0 +1,29 @@
++++
+date = '2026-04-18T14:00:05.991640+02:00'
+draft = true
+title = 'NAM-IP Infos 2015/1 – Éditorial'
++++
+
+# NAM-IP Infos 2015/1 – Éditorial
+
+Les électrons bougent et nous font bouger ! L'information circule à la vitesse de la lumière… ou presque!
+Le courriel, les sons, les twitt et autres signaux électroniques surgissent à tout moment et créent l'actualité où nous vivons immergés!
+
+NAM-IP sera présent à ce flux d'information. Le "musée" devra parler les langues nouvelles des communications de demain en y apportant tout le poids des années de découvertes qui ont permis ces modes nouveaux de communication.
+
+NAM-IP/Infosse présente en 2015, comme une Newsletter, un Bulletin trimestriel, un peu classique, à l'image de ses principaux producteurs, les collectionneurs du Musée NAM-IP. Mais cette chronique trimestrielle est ouverte à tout apport nouveau qui soutiendrait de façon dynamique l'action du musée en création.
+
+Un lieu de mémoire appelle une chronique historique régulière.
+
+Un lieu de compétence technologique appelle des descriptifs d'ingéniérie électromécanique ou électronique, logiciels ou autres.
+
+Un lieu de réflexion sur l'impact des technologies de l'information et de la communication appelle des propositions pédagogiques, philosophiques, visionnaires, sociétales.
+
+Un lieu de convivialité citoyenne appelle des chroniques sur les personnes et les événements.
+
+NAM-IP/Infos voudrait proposer, de trimestre en trimestre, un peu de tous ces ingrédients qui, accumulés au fil des années, finiront par dessiner une image, une vision de l'informatique pionnière en Belgique et de ce que NAM-IP peut lui apporter de pionnier pour le futur de notre société, de la ville de Namur, du renouveau technologique du sillon Sambre-Meuse, du rayonnement européen possible des TIC à partir de la Belgique.
+
+Merci de nous suivre, de nous encourager, et donc de nous critiquer pour nous stimuler à aller de l'avant!
+
+R.-F. Poswick
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAM-IP Blog</title>
+    <link>http://localhost:1313/posts/2015/</link>
+    <description>Recent content on NAM-IP Blog</description>
+    <generator>Hugo</generator>
+    <language>fr-be</language>
+    <lastBuildDate>Tue, 31 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/2015/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NAM-IP Infos 2015/1 – Éditorial</title>
+      <link>http://localhost:1313/posts/2015/blog/</link>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2015/blog/</guid>
+      <description>&lt;h1 id=&#34;nam-ip-infos-20151--éditorial&#34;&gt;NAM-IP Infos 2015/1 – Éditorial&lt;/h1&gt;&#xA;&lt;p&gt;Les électrons bougent et nous font bouger ! L&amp;rsquo;information circule à la vitesse de la lumière… ou presque!&#xA;Le courriel, les sons, les twitt et autres signaux électroniques surgissent à tout moment et créent l&amp;rsquo;actualité où nous vivons immergés!&lt;/p&gt;&#xA;&lt;p&gt;NAM-IP sera présent à ce flux d&amp;rsquo;information. Le &amp;ldquo;musée&amp;rdquo; devra parler les langues nouvelles des communications de demain en y apportant tout le poids des années de découvertes qui ont permis ces modes nouveaux de communication.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

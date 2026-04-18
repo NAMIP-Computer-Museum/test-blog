@@ -1,0 +1,45 @@
+/* =========================
+   GLOBAL TEXT SIZE
+========================= */
+
+body {
+    font-size: 14px;   /* reduce main text */
+    line-height: 1.6;
+}
+
+/* =========================
+   HEADINGS (ALL TITLES)
+========================= */
+
+h1 {
+    font-size: 1.8rem;  /* main page titles */
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-size: 1.1rem;
+}
+
+/* =========================
+   POST TITLE (theme-specific)
+========================= */
+
+.post-title {
+    font-size: 1.6rem !important;
+}
+
+/* Ananke-specific fallback */
+.f1 {
+    font-size: 1.8rem !important;
+}
+
+.f2 {
+    font-size: 1.4rem !important;
+}
